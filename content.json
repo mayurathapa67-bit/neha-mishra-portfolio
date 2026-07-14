@@ -3,24 +3,57 @@
     "logo": "Neha Mishra",
     "tagline": "Content Writer & Copywriter",
     "links": [
-      { "label": "Home", "href": "/" },
-      { "label": "About", "href": "/about" },
-      { "label": "Portfolio", "href": "/portfolio" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Blog", "href": "/blog" },
-      { "label": "Contact", "href": "/contact" }
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/portfolio"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
     ]
   },
   "hero": {
     "title": "Words that move people, and move the needle.",
     "subtitle": "I'm Neha Mishra — a content writer & copywriter crafting editorial stories, SEO-driven articles, and brand copy that earns attention. Based between Blacktown, Australia and Butwal, Nepal.",
-    "cta_primary": { "label": "View my work", "href": "/portfolio" },
-    "cta_secondary": { "label": "Work with me", "href": "/contact" },
-    "image": "",
+    "cta_primary": {
+      "label": "View my work",
+      "href": "/portfolio"
+    },
+    "cta_secondary": {
+      "label": "Work with me",
+      "href": "/contact"
+    },
+    "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784010797/neha-portfolio/clwmgsig3vx5hhrcjrjg.webp",
     "stats": [
-      { "value": "7+", "label": "Years writing" },
-      { "value": "200+", "label": "Pieces published" },
-      { "value": "40+", "label": "Brands served" }
+      {
+        "value": "7+",
+        "label": "Years writing"
+      },
+      {
+        "value": "200+",
+        "label": "Pieces published"
+      },
+      {
+        "value": "40+",
+        "label": "Brands served"
+      }
     ]
   },
   "about": {
@@ -111,7 +144,7 @@
       "excerpt": "An essay on ritual, attention, and why the best ideas arrive before the inbox does.",
       "client": "Personal Essay",
       "published_date": "2025-03-12",
-      "read_time": 4,
+      "read_time": 1,
       "featured_image": "",
       "content": "There is a particular kind of silence that only exists before the world wakes. I have come to protect it the way others protect a meeting — with intention, with boundaries, with a small and stubborn refusal to be interrupted.\n\nThe slow morning is not laziness. It is a posture. It is the decision to meet the day before the day meets you, to let a single thought unfurl without the fever of a notification.\n\nWriters talk about discipline, and they should. But discipline without rest is just friction. The quiet power of a slow morning is that it returns you to yourself, and from that self, the sentences finally come."
     },
@@ -121,7 +154,7 @@
       "excerpt": "A practical field guide to owning niche queries when you can't outspend the giants.",
       "client": "Meridian Digital",
       "published_date": "2025-02-02",
-      "read_time": 8,
+      "read_time": 1,
       "featured_image": "",
       "content": "Every founder I meet asks the same question: how do we compete when the incumbents have million-dollar budgets? The answer is almost never 'spend more'. It is 'be specific'.\n\nSearch has shifted from keywords to intent. The queries that convert are long, weird, and human. They sound like the way a customer actually talks to a friend. Small brands win by living inside those queries the giants consider too small to chase.\n\nBuild content around the questions your customers ask at 11pm. Answer them better than anyone. Repeat. That is the whole strategy, and it still works."
     },
@@ -131,7 +164,7 @@
       "excerpt": "Launch copy and brand narrative for a wellness startup's flagship release.",
       "client": "Lumen Wellness",
       "published_date": "2024-11-20",
-      "read_time": 5,
+      "read_time": 1,
       "featured_image": "",
       "content": "Lumen didn't want to sound like another wellness brand promising transformation by Tuesday. They wanted daylight — clarity, warmth, the feeling of a window opening.\n\nSo we built the voice around a single idea: less noise, more light. Every headline earned its place. Every CTA felt like an invitation rather than a demand.\n\nThe launch sold through its first run in nine days. But the founder told me the thing she loved most was that, for the first time, the website sounded like her."
     },
@@ -141,7 +174,7 @@
       "excerpt": "How we rebuilt a developer portal so engineers stopped emailing support.",
       "client": "Northstack",
       "published_date": "2024-09-08",
-      "read_time": 11,
+      "read_time": 1,
       "featured_image": "",
       "content": "Documentation is a product, and most companies ship it like an afterthought. Northstack was losing engineers to confusion in the first ten minutes.\n\nWe started with the questions real developers asked in Slack and turned them into a structured, searchable portal. We wrote for the person who is tired, on a deadline, and has zero interest in your brand story.\n\nSupport tickets dropped by a third. The engineering team stopped being the help desk. Good technical writing is, at its core, a kindness."
     },
@@ -151,7 +184,7 @@
       "excerpt": "A series of love letters to Butwal — its markets, its monsoons, its unremarkable magic.",
       "client": "Personal Column",
       "published_date": "2024-07-15",
-      "read_time": 6,
+      "read_time": 1,
       "featured_image": "",
       "content": "You won't find us on a postcard. But there is a particular gold to the light here in late summer, and the tea stalls on the corner have memorised my order.\n\nI write these letters because cities like mine are rarely written about with tenderness. They are skipped over, assumed small. But small is not the same as insignificant.\n\nSo this is for the monsoons, and the markets, and the unremarkable magic of a place that raised a writer without ever meaning to."
     },
@@ -161,7 +194,7 @@
       "excerpt": "On the letters we write to no one, and what they teach us about the ones we do send.",
       "client": "Personal Essay",
       "published_date": "2024-05-30",
-      "read_time": 3,
+      "read_time": 1,
       "featured_image": "",
       "content": "I keep a folder of unsent emails. Messages to former bosses, to a version of myself, to people who will never read them. They are not drafts. They are exorcisms.\n\nThe strange thing is how much they sharpen the emails I do send. Once the anger is spent on the page no one sees, what remains is clearer, kinder, and far more useful.\n\nWrite the unsent one. Then delete it. Then write the real one in half the words."
     }
@@ -172,7 +205,7 @@
       "category": "Strategy",
       "excerpt": "Voice isn't the fonts you pick. It's what the reader trusts you to deliver every single time.",
       "published_date": "2025-04-18",
-      "read_time": 7,
+      "read_time": 1,
       "featured_image": "",
       "content": "Most brand guidelines I'm handed read like a costume. 'We are friendly but professional. We use contractions. We avoid jargon.' Useful, perhaps, but a costume is something you put on.\n\nA real voice is a promise. It tells the reader: you can expect me to show up the same way, whether it's a tweet or a terms-of-service page. Trust is built in that consistency, not in the cleverness of any single line.\n\nIf you want a voice that lasts, stop dressing up. Start deciding what you will never say, and what you will always mean. The rest is just vocabulary."
     },
@@ -181,7 +214,7 @@
       "category": "Craft",
       "excerpt": "If your first 200 words don't earn the next 200, they shouldn't survive the edit.",
       "published_date": "2025-03-29",
-      "read_time": 5,
+      "read_time": 1,
       "featured_image": "",
       "content": "I judge every draft by its first 200 words. Not for grammar — for permission. Does this paragraph earn the reader's attention for 200 more?\n\nMost openings fail because they warm up. They clear their throat. They tell you what they're about to tell you. Readers don't need the throat-clearing; they need the stakes.\n\nCut the warm-up. Start where it matters. The 200-word rule is ruthless, and it will make you a faster, braver writer."
     },
@@ -190,7 +223,7 @@
       "category": "Opinion",
       "excerpt": "When anyone can produce a thousand words, the scarce thing becomes a point of view.",
       "published_date": "2025-02-14",
-      "read_time": 6,
+      "read_time": 1,
       "featured_image": "",
       "content": "The flood of generated text has changed the job. It is no longer impressive to produce words. It is impressive to have somewhere worth going with them.\n\nMachines are fluent. They are not opinionated. The scarce commodity in 2025 is not content — it's a point of view, an argument, a felt sense of what matters.\n\nSo I've stopped competing on volume. I compete on conviction. That's the one thing the models can imitate but never own."
     },
@@ -199,7 +232,7 @@
       "category": "Craft",
       "excerpt": "The blank page fears busyness more than it fears silence. Here's why rest is part of the work.",
       "published_date": "2025-01-22",
-      "read_time": 4,
+      "read_time": 1,
       "featured_image": "",
       "content": "We romanticise the tortured writer, but the truth is quieter: the best ideas arrive when you've stopped chasing them. Rest is not the opposite of work. It's the soil.\n\nI keep a 'nothing' hour most afternoons. No notes, no notifications. Just a window and a thought allowed to wander. Half my good sentences show up there, uninvited.\n\nIf you're stuck, don't push harder. Step away. The page will still be there, and you'll finally have something to say to it."
     }
@@ -239,10 +272,26 @@
     "phone": "+61 482 071 998",
     "location": "Blacktown, Australia · Butwal, Nepal",
     "socials": [
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
-      { "label": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
-      { "label": "X", "href": "https://x.com/", "icon": "x" },
-      { "label": "Email", "href": "mailto:neha.sydney7@gmail.com", "icon": "mail" }
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/",
+        "icon": "linkedin"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/",
+        "icon": "instagram"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/",
+        "icon": "x"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:neha.sydney7@gmail.com",
+        "icon": "mail"
+      }
     ]
   }
 }
